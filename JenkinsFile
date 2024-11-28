@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/Ashmit-Tyagi/DevOps-Project'
+                git branch: 'main', url: 'https://github.com/Ashmit-Tyagi/work-work.git'
             }
         }
         
