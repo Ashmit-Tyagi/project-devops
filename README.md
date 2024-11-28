@@ -13,3 +13,21 @@ Setting up a node for a master-slave architecture by utilizing the private key, 
 
 ![Screenshot from 2024-11-28 23-47-25](https://github.com/user-attachments/assets/c4ba3448-db8a-49ff-a37d-9cec5181ac2b)
 
+![Screenshot from 2024-11-29 00-03-00](https://github.com/user-attachments/assets/b50dfb7d-149e-49df-afee-a721a06b9d3b)
+
+# Setup Role based authorization
+
+![Screenshot from 2024-11-29 00-05-41](https://github.com/user-attachments/assets/d6f35d8d-e2a5-49bc-a4f1-d0b6b3edd53b)
+
+![Screenshot from 2024-11-29 00-07-03](https://github.com/user-attachments/assets/7d7c24d9-4933-44a0-acb7-c211edb0b8b4)
+
+![Screenshot from 2024-11-29 00-08-10](https://github.com/user-attachments/assets/437c8854-16ae-4ed7-9cb6-925c4174746a)
+
+![Screenshot from 2024-11-29 00-08-57](https://github.com/user-attachments/assets/0ce972ea-9cdf-476d-857c-36208a5758af)
+
+![image](https://github.com/user-attachments/assets/eb7f5faa-e112-4c55-a236-45ca81b055f8)
+
+![Screenshot from 2024-11-29 00-11-32](https://github.com/user-attachments/assets/9066342b-f791-48c1-ad78-7245e1e92806)
+
+
+
